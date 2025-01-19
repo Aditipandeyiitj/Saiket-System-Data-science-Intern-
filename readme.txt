@@ -1,0 +1,1 @@
+This project aims to analyze customer data, segment customers, and build a predictive model to identify customers at risk of churning. The analysis includes exploratory data analysis (EDA), customer segmentation, and machine learning modeling for churn prediction.
